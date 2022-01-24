@@ -9,5 +9,4 @@ public class SaussureBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SaussureBackendApplication.class, args);
 	}
-
 }
